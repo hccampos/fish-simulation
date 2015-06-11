@@ -1,0 +1,22 @@
+{
+	"name": "Fish",
+	"version": "0.0.1",
+	"description": "2D simulation of fish with boid simulation and simple genetics.",
+	"main": "server/app.js",
+	"author": "Hugo Campos <hcfields@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"del": "*",
+		"lodash": "*",
+		"express": "*",
+		"serve-static": "*",
+		"gulp": "*",
+		"gulp-concat": "*",
+		"gulp-less": "*",
+		"gulp-typescript": "*",
+		"merge2": "*"
+	},
+	"engines": {
+		"node": "0.10.x"
+	}
+}
